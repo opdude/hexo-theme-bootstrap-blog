@@ -2,6 +2,8 @@
 navbar_brand: false
 menu:
   Home: index.html
+  Projects: projects/
+  About Daniel: about-me/
   Archives: archives/
 rss: /atom.xml
 
@@ -18,9 +20,8 @@ widgets:
 - archive
 - recent_posts
 about_widget_content: >
-  <p>Etiam porta <em>sem malesuada magna</em> mollis euismod.
-  Cras mattis consectetur purus sit amet fermentum. Aenean
-  lacinia bibendum nulla sed consectetur.</p>
+  <p>A DevOp working at Unity Technologies striving to make every day
+  a better one for our developers.</p>
 
 # widget behavior
 archive_type: 'monthly'
@@ -29,7 +30,7 @@ show_count: true
 # Miscellaneous
 google_analytics:
 favicon:
-twitter_id:
+twitter_id: opdude
 google_plus:
 fb_admins:
 fb_app_id:
