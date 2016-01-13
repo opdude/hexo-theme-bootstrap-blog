@@ -28,7 +28,7 @@ archive_type: 'monthly'
 show_count: true
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-2939649-2
 favicon:
 twitter_id: opdude
 google_plus:
